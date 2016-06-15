@@ -268,6 +268,7 @@ The script files included are:
         Sending split request
         Began split operation with id dc68dfa0-e22b-4823-886a-9bdc903c80f3
         Polling split-merge request status. Press Ctrl-C to end
+   <!-- Loc comment: Table format below is wrong --> 
         Progress: 0% | Status: Queued | Details: [Informational] Queued request
         Progress: 5% | Status: Starting | Details: [Informational] Starting split-merge state machine for request.
         Progress: 5% | Status: Starting | Details: [Informational] Performing data consistency checks on target     shards.
